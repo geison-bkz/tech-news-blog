@@ -159,4 +159,17 @@
   color: #555;
   margin-bottom: 4px; /* Reduzir a margem inferior do texto */
 }
+
+/* Media Query para Dispositivos Móveis */
+@media (max-width: 768px) {
+  .col-6 {
+    flex: 0 0 100%; /* Ocupar toda a largura da tela */
+  }
+  .card img {
+    height: auto; /* Permitir que a imagem ajuste sua altura automaticamente */
+  }
+  .card-body {
+    padding: 16px; /* Adicionar um pouco mais de espaço ao redor do texto */
+  }
+}
 </style>
