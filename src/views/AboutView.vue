@@ -52,7 +52,7 @@
     <div class="row">
       <div class="col-6">
         <div class="card mb-6">
-          <img src="../assets/Erivelton.jpg" class="about-img" alt="Imagem do artigo" />
+          <img src="/img/Erivelton.jpg" class="about-img" alt="Imagem do artigo" />
           <div class="card-body">
             <h5 class="card-title">Erivelton Silva de Araujo</h5>
             <p class="card-text">Gestão Financeira / USJT - Vila Leopoldina</p>
@@ -62,7 +62,7 @@
       </div>
       <div class="col-6">
         <div class="card mb-6">
-          <img src="../assets/Micael.jpg" class="about-img" alt="Imagem do artigo" />
+          <img src="/img/Micael.jpg" class="about-img" alt="Imagem do artigo" />
           <div class="card-body">
             <h5 class="card-title">Micael da Silva Morais</h5>
             <p class="card-text">Gestão Financeira / USJT - Vila Leopoldina</p>

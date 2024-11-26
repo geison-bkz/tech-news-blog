@@ -16,7 +16,7 @@
 <script>
 import BlogCard from './BlogCard.vue';
 import BlogArticle from './BlogArticle.vue';
-import blogData from '../assets/blogData.json';
+import blogData from '../../public/blogData.json';
 
 export default {
   components: {

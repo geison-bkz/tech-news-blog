@@ -1,10 +1,10 @@
 <script setup>
-import Banner from '../components/Banner.vue';
+import BannerSection from '../components/BannerSection.vue';
 import BlogSection from '../components/BlogSection.vue';
 </script>
 
 <template>
-  <Banner></Banner>
+  <BannerSection></BannerSection>
   <main>
     <BlogSection></BlogSection>
   </main>

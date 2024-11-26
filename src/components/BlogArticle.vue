@@ -41,7 +41,7 @@ export default {
   methods: {
     getImagePath(imageName) {
       try {
-        return `src/assets/${imageName}`;
+        return `/img/${imageName}`;
       } catch (e) {
         console.error('Imagem não encontrada:', imageName, e);
         return '';

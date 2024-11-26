@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="col-12 col-md-6">
-          <img src="./../assets/banner.png" class="img-fluid" alt="a man using vr gadget" />
+          <img src="/img/banner.png" class="img-fluid" alt="a man using vr gadget" />
         </div>
       </div>
     </div>
